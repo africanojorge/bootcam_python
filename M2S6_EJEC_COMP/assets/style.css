@@ -1,0 +1,11 @@
+.contenedor {
+    width: 80%;
+    margin: auto;
+    margin-top: 4%;
+    /* background-color: blue; */
+    opacity: 0.9;
+    padding: 4%;
+    color: black;
+    border-radius: 2%;
+}
+
